@@ -77,7 +77,6 @@ header {
 .content {
   /*  -webkit-font-smoothing: none;*/
   width: 384px;
-  min-height: 600px;
   overflow: hidden;
   margin: 0 auto;
   background-color: white;

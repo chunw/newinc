@@ -14,6 +14,8 @@ html {
 }
 body {
   height: 100%;
+  font-family: var(--font-scroll-text) !important;
+  font-size: 0.7em !important;
 }
 .container {
   height: 100%;
@@ -63,4 +65,7 @@ a {
   color: var(--color-link);
 	outline: none;
 	cursor: pointer;
+}
+.content .explanation p {
+  font-size: 16px !important;
 }

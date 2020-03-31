@@ -5,7 +5,7 @@ $( document ).ready(function() {
 function animateSlideOutOfBox() {
   document.getElementById("date").textContent = getCurrentDate();
   document.getElementById("time").textContent = getCurrentTime();
-  $('#container').animate({ 'margin-top': '-140px' }, 6000);
+  $('#container').animate({ 'margin-top': '-97px' }, 6000);
 }
 
 function animateSlideIntoBox() {

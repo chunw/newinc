@@ -1,5 +1,7 @@
 html {
-  background-color: black;
+  background-size: cover;
+  background-image: url("../assets/img/bg1.png");
+    background-color: black;
 }
 
 body {

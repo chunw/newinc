@@ -11,6 +11,9 @@ html {
 	--font-scroll-text: 'Roboto Mono', monospace;
 	--fontsize-scroll-text: 8vw;
   height: 100%;
+  background-size: cover;
+  background-image: url("../assets/img/bg1.jpg");
+  background-color: black;
 }
 body {
   height: 100%;

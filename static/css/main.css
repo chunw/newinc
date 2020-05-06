@@ -70,6 +70,10 @@ a {
   font-size: 16px !important;
 }
 
+#prompt {
+    line-height: 1.7;
+}
+
 /** LIGHTBOX MARKUP **/
 
 .html5lightbox {

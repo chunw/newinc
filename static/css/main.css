@@ -79,13 +79,17 @@ a {
     position: absolute;
     top: 2vw;
     left: 2vw;
-    font-size: 1.8em;
     font-family: "Roboto Mono", monospace;
+}
+.html5lightbox a:hover {
+    color: white;
+}
+.html5lightbox a {
+    font-size: 1.8em;
     text-decoration: none;
     font-weight: bold;
-}
-.html5lightbox:hover {
-    color: white;
+    padding-left: 0.5em;
+    padding-right: 0.5em;
 }
 
 .lightbox {
